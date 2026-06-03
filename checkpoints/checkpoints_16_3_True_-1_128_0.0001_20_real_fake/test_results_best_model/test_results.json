@@ -1,0 +1,72 @@
+{
+  "per_dataset": {
+    "progan.json": {
+      "accuracy": 0.999125,
+      "ap": 0.9999996251561329
+    },
+    "stylegan.json": {
+      "accuracy": 0.9263338578171936,
+      "ap": 0.999317468599529
+    },
+    "stylegan2.json": {
+      "accuracy": 0.935636404094348,
+      "ap": 0.9995459408324522
+    },
+    "biggan.json": {
+      "accuracy": 0.97025,
+      "ap": 0.999490801407435
+    },
+    "cyclegan.json": {
+      "accuracy": 0.976303317535545,
+      "ap": 0.9999781467372586
+    },
+    "stargan.json": {
+      "accuracy": 1.0,
+      "ap": 1.0
+    },
+    "gaugan.json": {
+      "accuracy": 0.9512,
+      "ap": 0.999913846646191
+    },
+    "deepfake.json": {
+      "accuracy": 0.719236471460341,
+      "ap": 0.9552759550995154
+    },
+    "guided.json": {
+      "accuracy": 0.867,
+      "ap": 0.9695058952807928
+    },
+    "ldm_200.json": {
+      "accuracy": 0.983,
+      "ap": 0.9984159019178416
+    },
+    "ldm_200_cfg.json": {
+      "accuracy": 0.947,
+      "ap": 0.9893011422517755
+    },
+    "ldm_100.json": {
+      "accuracy": 0.9835,
+      "ap": 0.9983635019399139
+    },
+    "glide_100_10.json": {
+      "accuracy": 0.8895,
+      "ap": 0.9763914315332227
+    },
+    "glide_100_27.json": {
+      "accuracy": 0.8595,
+      "ap": 0.9677733870641168
+    },
+    "glide_50_27.json": {
+      "accuracy": 0.9185,
+      "ap": 0.9838291246359238
+    },
+    "dalle2.json": {
+      "accuracy": 0.963,
+      "ap": 0.9912855334035114
+    }
+  },
+  "average": {
+    "avg_accuracy": 0.9305678156817143,
+    "avg_ap": 0.9892742314066008
+  }
+}
